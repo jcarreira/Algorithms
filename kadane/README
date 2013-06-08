@@ -1,0 +1,4 @@
+This is an implementation of kadane's algorithm. It calculates the maximum sum of a subrectangle of numbers in O(n^3).
+
+Joao Carreira
+joao(dot)carreira(at)ist(dot)utl(dot)pt
