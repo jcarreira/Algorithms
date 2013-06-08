@@ -5,3 +5,6 @@ Description:
 whitebook.pdf: A pdf with algorithms to be used in algorithmic competitions (e.g., ICPC)
 closest_pair: library that calculates the closest pair of points from a set of points in O(nlogn)
 kadane: Kadane's DP algorithm to calculate the subarray with maximum sum in O(n^3)
+rbt: A red-black-tree implementation
+rmqdp: A solution to the the Range Minimum Query (RMQ) using DP
+rmqtree: A solution to the RMQ problem using segment trees
