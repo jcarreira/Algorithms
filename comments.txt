@@ -1,0 +1,11 @@
+Register spilling
+SSA
+Bloom filter
+radix tree
+suffix tree
+trie
+Merkle tree
+RSS
+Http
+REST
+Disjoint set data structure
