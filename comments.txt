@@ -9,3 +9,34 @@ RSS
 Http
 REST
 Disjoint set data structure
+Garbage collectors
+Linking
+PE structure
+system calls interceptions (system tap, ..)
+MVC pattern
+Bigtable
+Map reduce
+GoogleFS
+Google spanner
+radix sort
+counting sort
+ostream_iterator<int>(cout, " ")
+TLB flushing
+TSS
+GDT
+LDT
+time to read from memory, registers, disk
+Ackerman function
+Primos (geracao, checking)
+wedding matching
+efficient exponential usign matrix
+Kernel's address space. 1Gb for kernel and 3Gb for user space
+System space is shared by all processes
+Type checking sets the kinds of operations that can be performed with a variable of some type
+double free exploits
+Splay tree
+BNF
+infix to postfix
+rainbow tables
+salt (passwords)
+
